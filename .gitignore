@@ -1,0 +1,36 @@
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+logs/
+
+# BlueJ project files
+*.ctxt
+
+# J2ME temporary files
+.mtj.tmp/
+
+# Build & package files
+*.jar
+*.war
+*.ear
+*.nar
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# JVM crash reports
+hs_err_pid*
+replay_pid*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.idea/
+*.iml
+.vscode/
